@@ -1,0 +1,6 @@
+[canarytoken]
+
+canarytoken_api_url = https://<URL of the Canarytoken server>/
+
+cnarytoken_api_basicauth_username = <Canarytoken BasicAuth username (not the BasicAuth username for the Canarytoken generation API)>
+canarytoken_api_basicauth_password = <Canarytoken BasicAuth password (not the BasicAuth password for the Canarytoken generation API)>
